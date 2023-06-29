@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt": "{Trim:{}}"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "extract_enchantments:check"
+    }
+}
