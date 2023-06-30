@@ -4,9 +4,9 @@
         "item": "minecraft:book"
     },
     "base": {
-        "item": "minecraft:diamond_sword"
+        "tag": "extract_enchantments:all"
     },
     "addition": {
-        "item": "minecraft:book"
+        "tag": "extract_enchantments:extract_materials"
     }
 }
