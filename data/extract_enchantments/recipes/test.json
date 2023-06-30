@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_trim",
+  "template": {
+      "item": "minecraft:book"
+  },
+  "base": {
+      "tag": "minecraft:trimmable_armor"
+  },
+  "addition": {
+      "item": "minecraft:book"
+  }
+}
