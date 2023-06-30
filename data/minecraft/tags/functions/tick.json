@@ -1,5 +1,6 @@
 {
     "values": [
-        "extract_enchantments:tick"
+        "extract_enchantments:tick",
+        "rukky-func:tick"
     ]
 }

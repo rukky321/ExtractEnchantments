@@ -1,5 +1,6 @@
 {
     "values": [
-        "extract_enchantments:load"
+        "extract_enchantments:load",
+        "rukky-func:load"
     ]
 }
