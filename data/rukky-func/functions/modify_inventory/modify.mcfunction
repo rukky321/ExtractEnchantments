@@ -30,10 +30,11 @@ data remove storage rukky-func modify_inventory.data
 
 # スコアホルダーを定義する部分
 #>
-# input value of rukky-func:rng/generate
+# rukky-func:modify_inventory/modify
 # @public
 #define score_holder #modify_inventory.success
 #>
+# rukky-func:modify_inventory/modify
 # @public
 #define score_holder #modify_inventory.slot
 
