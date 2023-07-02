@@ -1,8 +1,0 @@
-{
-  "asset_name": "book",
-  "description": {
-    "text":"All"
-  },
-  "ingredient": "minecraft:book",
-  "item_model_index": 1.0
-}

@@ -1,0 +1,6 @@
+{
+ "asset_name": "minecraft:gold_nugget",
+ "description": "Target: Fortune",
+ "ingredient": "minecraft:gold_nugget",
+ "item_model_index": 1.0
+}

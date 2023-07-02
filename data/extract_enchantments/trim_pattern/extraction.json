@@ -1,7 +1,7 @@
 {
   "asset_id": "minecraft:book",
   "description": {
-    "text":"Enchantments Extractor"
+    "text":"Enchantments Extraction"
   },
   "template_item": "minecraft:book"
 }

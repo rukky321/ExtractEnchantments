@@ -1,0 +1,6 @@
+{
+ "asset_name": "minecraft:feather",
+ "description": "Target: Feather Falling",
+ "ingredient": "minecraft:feather",
+ "item_model_index": 1.0
+}

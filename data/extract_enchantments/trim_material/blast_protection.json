@@ -1,6 +1,6 @@
 {
-  "asset_name": "minecraft:gunpowder",
-  "description": "blast_protection",
-  "ingredient": "minecraft:gunpowder",
-  "item_model_index": 1.0
+ "asset_name": "minecraft:gunpowder",
+ "description": "Target: Blast Protection",
+ "ingredient": "minecraft:gunpowder",
+ "item_model_index": 1.0
 }

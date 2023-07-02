@@ -1,0 +1,6 @@
+{
+ "asset_name": "minecraft:piston",
+ "description": "Target: Punch",
+ "ingredient": "minecraft:piston",
+ "item_model_index": 1.0
+}
