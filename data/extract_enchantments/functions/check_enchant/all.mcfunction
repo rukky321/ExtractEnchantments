@@ -16,4 +16,3 @@ execute if data storage rukky-func get_inventory.data.tag.StoredEnchantments run
 #それ以外が対象だった場合
 execute unless data storage rukky-func get_inventory.data.tag.StoredEnchantments if data storage rukky-func get_inventory.data.tag.Enchantments run function extract_enchantments:modify/not_eb_all
 
-say yes
