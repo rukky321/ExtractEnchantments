@@ -44,6 +44,9 @@ execute if data entity @s Inventory[{tag:{Trim:{material:"extract_enchantments:t
 execute if data entity @s Inventory[{tag:{Trim:{material:"extract_enchantments:unbreaking"}}}] run function extract_enchantments:check_enchant/unbreaking
 execute if data entity @s Inventory[{tag:{Trim:{material:"extract_enchantments:all"}}}] run function extract_enchantments:check_enchant/all
 
+# 召喚されたエンチャント本からタグを消す
+tag @e[tag=EE_item] remove EE_item
+
 # 編集用ストレージからトリムを消去
 data remove storage rukky-func modify_inventory.data.tag.Trim
 
