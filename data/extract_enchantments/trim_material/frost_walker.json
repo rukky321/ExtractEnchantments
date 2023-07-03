@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:ice",
- "description": "Target: Frost Walker",
+ "description": "Target Enchantment: Frost Walker",
  "ingredient": "minecraft:ice",
  "item_model_index": 1.0
 }

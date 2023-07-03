@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:cactus",
- "description": "Target: Thorns",
+ "description": "Target Enchantment: Thorns",
  "ingredient": "minecraft:cactus",
  "item_model_index": 1.0
 }

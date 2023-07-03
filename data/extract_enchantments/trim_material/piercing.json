@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:iron_nugget",
- "description": "Target: Piercing",
+ "description": "Target Enchantment: Piercing",
  "ingredient": "minecraft:iron_nugget",
  "item_model_index": 1.0
 }

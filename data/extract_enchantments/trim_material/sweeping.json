@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:brush",
- "description": "Target: Sweeping",
+ "description": "Target Enchantment: Sweeping",
  "ingredient": "minecraft:brush",
  "item_model_index": 1.0
 }

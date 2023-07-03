@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:lightning_rod",
- "description": "Target: Channeling",
+ "description": "Target Enchantment: Channeling",
  "ingredient": "minecraft:lightning_rod",
  "item_model_index": 1.0
 }

@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:arrow",
- "description": "Target: Infinity",
+ "description": "Target Enchantment: Infinity",
  "ingredient": "minecraft:arrow",
  "item_model_index": 1.0
 }

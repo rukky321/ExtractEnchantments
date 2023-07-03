@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:string",
- "description": "Target: Silk Touch",
+ "description": "Target Enchantment: Silk Touch",
  "ingredient": "minecraft:string",
  "item_model_index": 1.0
 }

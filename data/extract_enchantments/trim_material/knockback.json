@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:stick",
- "description": "Target: Knockback",
+ "description": "Target Enchantment: Knockback",
  "ingredient": "minecraft:stick",
  "item_model_index": 1.0
 }

@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:spectral_arrow",
- "description": "Target: Multishot",
+ "description": "Target Enchantment: Multishot",
  "ingredient": "minecraft:spectral_arrow",
  "item_model_index": 1.0
 }

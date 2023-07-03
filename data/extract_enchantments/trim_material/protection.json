@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:obsidian",
- "description": "Target: Protection",
+ "description": "Target Enchantment: Protection",
  "ingredient": "minecraft:obsidian",
  "item_model_index": 1.0
 }

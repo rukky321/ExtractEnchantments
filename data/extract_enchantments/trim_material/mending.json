@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:ghast_tear",
- "description": "Target: Mending",
+ "description": "Target Enchantment: Mending",
  "ingredient": "minecraft:ghast_tear",
  "item_model_index": 1.0
 }

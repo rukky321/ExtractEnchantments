@@ -1,6 +1,6 @@
 {
   "asset_name": "minecraft:paper",
-  "description": "Target: All",
+  "description": "Target Enchantment: All",
   "ingredient": "minecraft:paper",
   "item_model_index": 1.0
  }

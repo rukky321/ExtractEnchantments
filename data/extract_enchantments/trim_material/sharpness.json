@@ -1,6 +1,6 @@
 {
  "asset_name": "minecraft:iron_sword",
- "description": "Target: Sharpness",
+ "description": "Target Enchantment: Sharpness",
  "ingredient": "minecraft:iron_sword",
  "item_model_index": 1.0
 }
