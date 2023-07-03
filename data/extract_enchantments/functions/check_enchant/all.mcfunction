@@ -1,4 +1,4 @@
-#> extract_enchantments:modify/all
+#> extract_enchantments:check_enchant/all
 #
 # @within extract_enchantments:check_enchant
 
