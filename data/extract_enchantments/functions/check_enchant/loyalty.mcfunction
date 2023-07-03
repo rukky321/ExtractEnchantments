@@ -3,7 +3,7 @@
 #@within extract_enchantments:check_enchant
 
 # アイテムが入っているスロットを取得
-execute store result score #get_inventory.slot rukky.func run data get entity @s Inventory[{tag:{Trim:{material:"extract_enchantments:loyalty"}}}].Slot
+execute store result score #get_inventory.slot rukky.func run data get entity @s Inventory[{tag:{Trim:{material:"minecraft:shield"}}}].Slot
 scoreboard players operation #modify_inventory.slot rukky.func = #get_inventory.slot rukky.func
 
 # データを編集用ストレージに取得
