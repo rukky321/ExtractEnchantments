@@ -4,7 +4,7 @@
         "item": "minecraft:book"
     },
     "base": {
-        "tag": "minecraft:trimmable_armor"
+        "tag": "extract_enchantments:trimmable_armor"
     },
     "addition": {
         "tag": "extract_enchantments:extract_materials"
