@@ -1,5 +1,5 @@
 {
- "asset_name": "minecraft:flint",
+ "asset_name": "flint",
  "description": "Target Enchantment: Power",
  "ingredient": "minecraft:flint",
  "item_model_index": 1.0

@@ -1,5 +1,5 @@
 {
- "asset_name": "minecraft:gunpowder",
+ "asset_name": "gunpowder",
  "description": "Target Enchantment: Blast Protection",
  "ingredient": "minecraft:gunpowder",
  "item_model_index": 1.0

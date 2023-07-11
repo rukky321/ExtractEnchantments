@@ -1,5 +1,5 @@
 {
- "asset_name": "minecraft:piston",
+ "asset_name": "piston",
  "description": "Target Enchantment: Punch",
  "ingredient": "minecraft:piston",
  "item_model_index": 1.0

@@ -1,5 +1,5 @@
 {
- "asset_name": "minecraft:golden_pickaxe",
+ "asset_name": "golden_pickaxe",
  "description": "Target Enchantment: Efficiency",
  "ingredient": "minecraft:golden_pickaxe",
  "item_model_index": 1.0

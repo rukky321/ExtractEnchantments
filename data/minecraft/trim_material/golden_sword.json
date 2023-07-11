@@ -1,5 +1,5 @@
 {
- "asset_name": "minecraft:golden_sword",
+ "asset_name": "golden_sword",
  "description": "Target Enchantment: Looting",
  "ingredient": "minecraft:golden_sword",
  "item_model_index": 1.0
